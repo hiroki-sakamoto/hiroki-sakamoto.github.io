@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE-TITLE-ABOUT-ME"
-permalink: /URL-PATH
+permalink: /about
 
 Hello, mathematical field!!!
