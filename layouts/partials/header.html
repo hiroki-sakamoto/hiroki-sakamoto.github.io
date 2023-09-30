@@ -1,0 +1,24 @@
+<div class="container mt-5">
+    <nav class="navbar navbar-expand-ms flex-column flex-sm-row p-0">
+        {{ if eq .Site.Params.Lang "en" }}
+        <a class="navbar-brand mr-sm-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <div class="navbar-nav flex-row">
+            {{ with .Site.Menus.en }}{{ $navbar_len := len . }}{{ range $i, $nav_item := . }}
+            <a class="nav-item nav-link" href="{{ $nav_item.URL }}/">{{ $nav_item.Name }}</a>
+            <span class="nav-item navbar-text mx-1">/</span>
+            {{ end }}{{ end }}
+            <a class="nav-item nav-link" href="/ja/{{ .Params.URL }}">日本語</a>
+        </div>
+        {{ else }}
+        <a class="navbar-brand mr-sm-auto" href="{{ .Site.BaseURL }}ja/">{{ .Site.Title }}</a>
+        <div class="navbar-nav flex-row">
+            {{ with .Site.Menus.ja }}{{ $navbar_len := len . }}{{ range $i, $nav_item := . }}
+            <a class="nav-item nav-link" href="{{ $nav_item.URL }}/">{{ $nav_item.Name }}</a>
+            <span class="nav-item navbar-text mx-1">/</span>
+            {{ end }}{{ end }}
+            <a class="nav-item nav-link" href="{{ .Site.BaseURL }}{{ .Params.URL }}">English</a>
+        </div>
+        {{ end }}
+    </nav>
+</div>
+<hr>

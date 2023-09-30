@@ -1,0 +1,15 @@
+{{- $year := .Get 0 | markdownify -}}
+<div class="cv">
+  {{ if eq .Site.Language.Lang "en" }}
+  <div class="cv-year-en">
+    {{ $year }}
+  </div>
+  {{ else }}
+  <div class="cv-year">
+    {{ $year }}
+  </div>
+  {{ end }}
+  <div class="cv-block">
+    {{ .Inner }}
+  </div>
+</div>

@@ -1,0 +1,70 @@
+baseURL = 'https://shotatakahashi.github.io/'
+languageCode = 'en-us'
+title = 'Shota Takahashi'
+theme = 'researcher'
+
+HasCJKLanguage = true
+defaultContentLanguage = 'en'
+googleAnalytics = "G-DHJ028YV1C"
+
+enableRobotsTXT = true
+
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  author = "Shota Takahashi"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"
+  [params.footer]
+    text = "(C) 2020 Shota Takahashi"
+  [params.style]
+    fontFamily = "Noto Sans JP"
+    fontSize = "12pt"
+    pageWidth = "1000px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed   = "#dc3545"
+
+[languages]
+  [languages.ja]
+    weight = 2
+    title = "高橋 翔大"
+    lang = "ja"
+  [languages.en]
+    weight = 1
+    title = "Shota Takahashi"
+    lang = "en"
+
+[menu]
+  [[menu.en]]
+    name = "Home"
+    url = ""
+    weight = 1
+  [[menu.en]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+  [[menu.en]]
+    name = "CV"
+    url = "/cv"
+    weight = 5
+  [[menu.ja]]
+    name = "ホーム"
+    url = "/ja"
+    weight = 1
+  [[menu.ja]]
+    name = "業績"
+    url = "/ja/publications"
+    weight = 1
+  [[menu.ja]]
+    name = "経歴"
+    url = "/ja/cv"
+    weight = 5
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
