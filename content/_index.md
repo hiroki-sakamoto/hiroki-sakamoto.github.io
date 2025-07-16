@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My recent work focuses on the following two areas:
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Data-driven h2 MOR for linear discrete-time systems: 
+        We propose a method to construct reduced-order models directly from the measurement data. In comparison with existing methods, our approach effectively builds a reduced-order model that accurately approximates the frequency response of the original system.
         
-        Please reach out to collaborate 😃
+        Compression of Deep Diagonal State-Space Models based on H2 MOR:
+        Recently, deep learning models incorporating state-space models have received considerable attention. In this research, we propose a H2 MOR-based compression method that reduces the number of parameters while maintaining the original deep model's performance.
     design:
       columns: '1'
   - block: collection
