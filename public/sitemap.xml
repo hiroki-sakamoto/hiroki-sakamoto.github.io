@@ -10,32 +10,48 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/2025-lcss-h2compression/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/model-compression-diagonal-state-space-model-optimal-h2-model-order-reduction/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-preprint-data/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-driven-model-order-reduction-discretetime-dynamical-systems/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/riemannian-nonlinear-optimization-rnlo-riemannian-sequential-quadratic-optimization-rsqo-stable-linear-system-system-identification/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2023-tac-riemannian/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/get-started/</loc>
@@ -130,32 +146,24 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/2023-jsiam-random/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/random-projection-gaussian-embedding-dimensionality-reduction/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/random-projection-stability-analysis-model-order-reduction/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2023-jsiam-stable/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

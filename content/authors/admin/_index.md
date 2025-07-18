@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 坂本大樹
+title: Hiroki Sakamoto
 
-# Name pronunciation (optional)
-name_pronunciation: Hiroki Sakamoto
+# # Name pronunciation (optional)
+# name_pronunciation: Hiroki Sakamoto
 
 # Full name (for SEO)
 first_name: Hiroki
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Model Order Reduction
-  - Model compression for deep learning models
-  - Machine learning and data science for modeling and control of complex systems
+  - Model Compression
+  - Randomized Numerical Linear Algebra
 
 education:
   - area: Ph.D. Candidate in Mathematical Informatics
@@ -64,7 +64,7 @@ education:
   - area: Exchange Student
     institution: Sorbonne University
     date_start: 2023-09-01
-    date_end: 2024-01-01
+    date_end: 2024-01-15
     # summary: |
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -208,4 +208,6 @@ awards:
 
 ## About Me
 
-Hiroki Sakamoto is a Ph.D. candidate in Information Science at the University of Tokyo. His research focuses on model order reduction, control theory, and deep learning, with applications in dynamical systems and intelligent modeling. He is particularly interested in data-driven approaches for constructing interpretable and efficient models of complex physical systems.
+I’m Hiroki Sakamoto, a Ph.D. candidate in [Information Science and Technology at the University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml). I am a member of [Mathematical Informatics Laboratory No. 5](https://www.or.mist.i.u-tokyo.ac.jp/home/), advised by [Kazuhiro Sato](https://kazuhirosato.hatenablog.jp/).
+
+My research focuses on model reduction and compression for high‑dimensional dynamical systems and deep learning models. Broadly, I explore data‑driven methods for modeling, controlling, and interpreting complex physical systems, aiming to create compact yet accurate representations that bridge control theory and modern machine‑learning techniques.
