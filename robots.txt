@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hiroki-sakamoto.github.io/sitemap.xml
